@@ -1,5 +1,5 @@
 # Aulas Android
-Aplicativos para fixação de conteúdo das aulas de capacitação Nokia - UFCG 2017/2018.
+Aplicativos para fixação de conteúdo das aulas de capacitação Embedded - UFCG 2017/2018.
 
 ## Aula 09
 Aplicativo para somar dois valores e apresentar o resultado
