@@ -1,0 +1,41 @@
+package com.example.hadri_santos.androidnetworking.models;
+
+/**
+ * Created by hadri_santos on 17/01/18.
+ */
+
+class Geo {
+    private String lat;
+    private String lng;
+
+    public Geo(){}
+
+    public Geo (String lat, String lng){
+        this.lat = lat;
+        this.lng = lng;
+    }
+
+    public String getLat() {
+        return lat;
+    }
+
+    public void setLat(String lat) {
+        this.lat = lat;
+    }
+
+    public String getLng() {
+        return lng;
+    }
+
+    public void setLng(String lng) {
+        this.lng = lng;
+    }
+
+    @Override
+    public String toString() {
+        return "lat: " + lat +
+                ",\nlng: " + lng;
+    }
+}
+
+
