@@ -22,3 +22,14 @@ Aplicações que enviam e recebem broadcast:
   * Registre o BroadcastReceiver ao IntentFilter utilizando o método registerReceiver
 * Crie outra aplicação para enviar a action em broadcast usando sendBroadcast
   * Teste o recebimento com Log
+
+## Aula 12
+Aplicações que se comunicam através de socket.io:
+* Criar aplicação que se comunique com um servidor socket.io
+
+## Aula 13
+Crie uma aplicação que faça as seguintes requisições REST:
+* Recuperar (GET) um recurso específico (Por exemplo: recuperar o usuário com ID 1)
+* Atualizar (PUT) um recurso específico (Por exemplo: atualizar o usuário com ID 1)
+* Utilize como base o exemplo NetworkConnect
+* Qualquer recurso do servidor REST a seguir pode ser utilizado: http://jsonplaceholder.typicode.com/
